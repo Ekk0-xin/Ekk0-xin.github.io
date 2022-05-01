@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ekk0_xin</title>
+  <title>Ekk0 | 归档</title>
   
-  <subtitle>Ekk0_xinのblog</subtitle>
+  <subtitle>record and share</subtitle>
   <link href="https://ekk0-xin.github.io/atom.xml" rel="self"/>
   
   <link href="https://ekk0-xin.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://ekk0-xin.github.io/</id>
   
   <author>
-    <name>Ekk0_xin</name>
+    <name>Ekk0</name>
     
   </author>
   
